@@ -13,3 +13,5 @@ arduino/esp8266/config.h
 backend/src/main/resources/application.properties
 backend/.idea
 backend/target
+Weather_Station_board/fp-info-cache
+Weather_Station_board/sym-lib-table

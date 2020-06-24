@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name sensors)(type Legacy)(uri "/Library/Application Support/kicad/library/kicad-lib/sensors.lib")(options "")(descr ""))
-  (lib (name Weather_Station_board-rescue)(type Legacy)(uri ${KIPRJMOD}/Weather_Station_board-rescue.lib)(options "")(descr ""))
-)
